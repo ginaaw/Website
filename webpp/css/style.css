@@ -1,0 +1,168 @@
+body{
+	text-align: justify;
+	font-size: 12px;
+	font-family: "arial";
+	background-color: #D2D3D5;
+}
+
+.header {
+	background-color:white;
+	padding:10px 0 60px 0;
+}
+
+#title h1{
+	color: white;
+	font-size: 36px;
+	text-align: center;
+}
+
+#header1  {
+	background-color:#044089;
+	padding:5px 0 15px 0;
+}
+h1, .h1, h2, .h2, h3, .h3{
+	margin-top: 0px;
+}
+.col-md-3 .form-group .control-label{
+	color: white;
+}
+#header2 {
+	background:#002756;
+}
+
+#header2 li{
+	background:#676f75;
+	position: relative;
+	display: inline-block;
+	padding-left: 0;
+}
+.container{
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.panel-default{
+	border-bottom: 3px solid #ffffff;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+.panel-heading{
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	font-weight: bold;
+}
+.panel-default .panel-heading{
+	background-color: #D2D3D5;
+}
+/*.panel-group .panel-collapse .panel-body{
+	background-color: none;
+}*/
+.panel-body{
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.panel-title{
+	font-size: 15px;
+}
+.form-group .form-control{
+	margin-left: -18px;
+}
+.form-control{
+	height: 30px;
+	border-radius: 0px;
+	width: 50%;
+	font-size: 12px;
+}
+.btn{
+	height: 30px;
+	border-radius: 0px;
+	font-size: 12px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-right: 8px;
+	padding-left: 8px;
+}
+
+#formulir{
+	background-color: #a7a497;
+}
+#formulir .form{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.form h4{
+	padding-left: 12px;
+	margin-top: 10px;
+}
+.form-group .checklist{
+	margin-left: -20px;
+}
+.submit{
+	margin-right: 5px;
+	width: 75px;
+	margin-top: 8px;
+	background-color: #0F4E7B;
+	color: white;	
+}
+#footer p{
+	font-size: 12px;
+	font-weight: bold;
+}
+#footer1{
+	background-color: #0F4E7B;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 10px;
+	color: white;
+}
+
+#footer2{
+	background-color: #D2D3D5;
+	text-align: center;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+#footer ul{
+	list-style: none;
+	text-align: left;
+}
+.row{
+	margin: 0px;
+}
+.foto{
+	border:solid 1px black; 
+	width:100px; 
+	height:100px;
+}
+.row .unggahFoto{
+
+	margin-left: 20px;
+}
+.judul {
+	position: center;
+	text-align: center;
+}
+#profil {
+	padding-left: 80px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+th {
+	background-color: #002756;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+
+.navbar-header > a > img {
+	width: 139px;
+	height: 62;
+}
+
+.ul li{
+	color: #0F4E7B;
+}
